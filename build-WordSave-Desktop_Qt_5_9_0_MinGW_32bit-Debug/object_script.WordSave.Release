@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\Word_Save.o
+./release\mainwindow.o
+./release\Install_Word_Form.o
+./release\messagedialog.o
+./release\qrc_word.o
+./release\moc_Word_Save.o
+./release\moc_mainwindow.o
+./release\moc_Install_Word_Form.o
+./release\moc_messagedialog.o
+);

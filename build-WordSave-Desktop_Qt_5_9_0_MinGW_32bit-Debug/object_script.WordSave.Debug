@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\Word_Save.o
+./debug\mainwindow.o
+./debug\Install_Word_Form.o
+./debug\messagedialog.o
+./debug\qrc_word.o
+./debug\moc_Word_Save.o
+./debug\moc_mainwindow.o
+./debug\moc_Install_Word_Form.o
+./debug\moc_messagedialog.o
+);
